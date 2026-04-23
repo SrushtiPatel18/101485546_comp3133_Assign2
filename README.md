@@ -1,4 +1,4 @@
-# 101502928_comp3133_assignment2
+# 101485546_comp3133_assignment2
 
 ## Project Overview
 This project is an Angular (version 17+) frontend application designed to interact with a GraphQL (Apollo) backend, originally built during Assignment 1. It provides a robust, production-grade architecture that adheres to enterprise layout best practices, incorporating lazy loading concepts via standalone component structures, Route Guards, Material Design UI, and comprehensive GraphQL integration.
